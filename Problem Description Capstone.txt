@@ -1,0 +1,18 @@
+1. Introduction
+
+(i) Background
+
+Toronto is the most populous city of Canada. It is an international centre of business, finance, arts, and culture, and is recognized as one of the most multicultural and cosmopolitan cities in the world.
+
+From a business perspective, there are a lot of opportunities because of the large and diverse consumer base.
+
+(ii) Business Problem
+
+Since Toronto is a well settled city, with a stable growth of almost 300 years, a lot of local businesses have already bloomed here. 
+
+Therefore, it is difficult to find a neighborhood, with low competition and high growth opportunities.
+Analyzing the concentration of a particular type of business will give insights about the feasibility of new establishments. For this project, the focus is on the restaurants or eateries only.
+
+(iii) Target audience
+
+Potential business owners, looking for opening up a new restaurant would benefit from this feasibility and competitive analysis of the various neighborhoods, as this will provide a filtered out result of the best possible locations for their new business.

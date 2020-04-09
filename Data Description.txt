@@ -1,0 +1,13 @@
+Data required: The data required will be as follows:
+
+i. List of Toronto neighborhoods: 
+The list of the neighborhoods is obtained from the Wikipedia page for postal codes https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M This data is the starting point of this data analysis project. This list of neighborhoods will be analysed.
+
+ii. Latitude and Longitude values of each of these neighborhoods:
+This data is available at http://cocl.us/Geospatial_data This data will be useful to mark the various neighborhoods on a visual map for easy comprehension.
+
+iii. Latitude and Longitude values of Toronto City:
+Using Google maps. This data will be used to mark the Toronto city, and further its neighborhoods.
+
+iv. Venue data:
+Data of different types of venues all around these neighborhoods of Toronto- This data is obtained by using Foursquare API. This data will be used to calculate the concentration of restaurant businesses around the various neighborhoods.
